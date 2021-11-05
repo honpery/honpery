@@ -9,7 +9,10 @@
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true"></code>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true"></code>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true"></code>
+  <br/>
+  <br/>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/react/react.png?raw=true"></code>
+  <code><img height="40" src="https://github.com/github/explore/blob/main/topics/vue/vue.png?raw=true"></code>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/redux/redux.png?raw=true"></code>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/webpack/webpack.png?raw=true"></code>
 
