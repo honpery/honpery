@@ -14,6 +14,7 @@
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/vue/vue.png?raw=true"></code>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/redux/redux.png?raw=true"></code>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/webpack/webpack.png?raw=true"></code>
+  <code><img height="40" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png?raw=true"></code>
 
   <h6>Backend Develop</h6>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png?raw=true"></code>
@@ -35,6 +36,9 @@
   <h6>Design</h6>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/figma/figma.png?raw=true"></code>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/sketch/sketch.png?raw=true"></code>
+    
+  <h6>AI</h6>
+  <code><img height="40" src="https://github.com/github/explore/blob/main/topics/chatgpt-api/chatgpt-api.png?raw=true"></code>
 </details>
 
 <br/>
