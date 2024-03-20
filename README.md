@@ -9,7 +9,6 @@
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true"></code>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true"></code>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true"></code>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/react/react.png?raw=true"></code>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/vue/vue.png?raw=true"></code>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/redux/redux.png?raw=true"></code>
@@ -20,7 +19,6 @@
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png?raw=true"></code>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/go/go.png?raw=true"></code>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true"></code>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png?raw=true"></code>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png?raw=true"></code>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/redis/redis.png?raw=true"></code>
@@ -35,7 +33,6 @@
   
   <h6>Design</h6>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/figma/figma.png?raw=true"></code>
-  <code><img height="40" src="https://github.com/github/explore/blob/main/topics/sketch/sketch.png?raw=true"></code>
     
   <h6>AI</h6>
   <code><img height="40" src="https://github.com/github/explore/blob/main/topics/chatgpt-api/chatgpt-api.png?raw=true"></code>
